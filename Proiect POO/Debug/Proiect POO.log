@@ -1,0 +1,10 @@
+﻿  Proiect POO.cpp
+C:\Users\Bogdana\Documents\FACULTATE\C++\POO\Proiect POO\Proiect POO.cpp(22,6): warning C4101: 'a': unreferenced local variable
+C:\Users\Bogdana\Documents\FACULTATE\C++\POO\Proiect POO\Proiect POO.cpp(21,14): warning C4101: 'teta': unreferenced local variable
+C:\Users\Bogdana\Documents\FACULTATE\C++\POO\Proiect POO\Proiect POO.cpp(21,19): warning C4101: 'delta': unreferenced local variable
+C:\Users\Bogdana\Documents\FACULTATE\C++\POO\Proiect POO\Proiect POO.cpp(21,9): warning C4101: 'P': unreferenced local variable
+C:\Users\Bogdana\Documents\FACULTATE\C++\POO\Proiect POO\Proiect POO.cpp(21,11): warning C4101: 'h1': unreferenced local variable
+C:\Users\Bogdana\Documents\FACULTATE\C++\POO\Proiect POO\Proiect POO.cpp(21,25): warning C4101: 'S1': unreferenced local variable
+C:\Users\Bogdana\Documents\FACULTATE\C++\POO\Proiect POO\Proiect POO.cpp(21,31): warning C4101: 'r': unreferenced local variable
+C:\Users\Bogdana\Documents\FACULTATE\C++\POO\Proiect POO\Proiect POO.cpp(21,28): warning C4101: 'S2': unreferenced local variable
+  Proiect POO.vcxproj -> C:\Users\Bogdana\Documents\FACULTATE\C++\POO\Proiect POO\Debug\Proiect POO.exe
