@@ -1,0 +1,18 @@
+A:\FACULTATE\an 2 - sem1\POO\PROIECT - Gail model for breast cancer risk\INTERFATA\risk_calculator\bin\Debug\risk_calculator.exe.config
+A:\FACULTATE\an 2 - sem1\POO\PROIECT - Gail model for breast cancer risk\INTERFATA\risk_calculator\bin\Debug\risk_calculator.exe
+A:\FACULTATE\an 2 - sem1\POO\PROIECT - Gail model for breast cancer risk\INTERFATA\risk_calculator\bin\Debug\risk_calculator.pdb
+A:\FACULTATE\an 2 - sem1\POO\PROIECT - Gail model for breast cancer risk\INTERFATA\risk_calculator\obj\Debug\risk_calculator.csprojAssemblyReference.cache
+A:\FACULTATE\an 2 - sem1\POO\PROIECT - Gail model for breast cancer risk\INTERFATA\risk_calculator\obj\Debug\risk_calculator.Properties.Resources.resources
+A:\FACULTATE\an 2 - sem1\POO\PROIECT - Gail model for breast cancer risk\INTERFATA\risk_calculator\obj\Debug\risk_calculator.csproj.GenerateResource.cache
+A:\FACULTATE\an 2 - sem1\POO\PROIECT - Gail model for breast cancer risk\INTERFATA\risk_calculator\obj\Debug\risk_calculator.exe
+A:\FACULTATE\an 2 - sem1\POO\PROIECT - Gail model for breast cancer risk\INTERFATA\risk_calculator\obj\Debug\risk_calculator.pdb
+A:\FACULTATE\an 2 - sem1\POO\PROIECT - Gail model for breast cancer risk\INTERFATA\risk_calculator\obj\Debug\risk_calculator.Form1.resources
+C:\Users\andreea.cotiga\Desktop\Gail\bin\Debug\risk_calculator.exe.config
+C:\Users\andreea.cotiga\Desktop\Gail\bin\Debug\risk_calculator.exe
+C:\Users\andreea.cotiga\Desktop\Gail\bin\Debug\risk_calculator.pdb
+C:\Users\andreea.cotiga\Desktop\Gail\obj\Debug\risk_calculator.csprojAssemblyReference.cache
+C:\Users\andreea.cotiga\Desktop\Gail\obj\Debug\risk_calculator.Form1.resources
+C:\Users\andreea.cotiga\Desktop\Gail\obj\Debug\risk_calculator.Properties.Resources.resources
+C:\Users\andreea.cotiga\Desktop\Gail\obj\Debug\risk_calculator.csproj.GenerateResource.cache
+C:\Users\andreea.cotiga\Desktop\Gail\obj\Debug\risk_calculator.exe
+C:\Users\andreea.cotiga\Desktop\Gail\obj\Debug\risk_calculator.pdb
